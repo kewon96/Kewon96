@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=Vue.js,Hibernate,Spring)](https://github.com/kewon96)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=Hibernate,PostgreSQL,Docker,Git,Node.js,Vuex,Flutter,.NET,C#)](https://github.com/kewon96)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=React,Hibernate,PostgreSQL,Docker,Git,Node.js,Vuex,Flutter,.NET,C#,Dart)](https://github.com/kewon96)
