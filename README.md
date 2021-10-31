@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kewon96/kewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,Vue.js)](https://github.com/kewon96)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,Vue.js,TypeScript,Hibernate,PostgreSQL,Docker,Git,Node.js,Spring,Vuex)](https://github.com/kewon96)
