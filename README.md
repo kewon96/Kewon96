@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/kewon96)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,Vue.js)](https://github.com/kewon96)
