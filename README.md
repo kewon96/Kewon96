@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,TypeScript)](https://github.com/kewon96)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=Vue.js,Hibernate,Spring)](https://github.com/kewon96)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=Vue.js,JPA,Spring)](https://github.com/kewon96)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=React,Hibernate,PostgreSQL,Docker,Git,Node.js,Vuex,Flutter,.NET,csharp,Dart)](https://github.com/kewon96)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=React,Docker,Git,Flutter)](https://github.com/kewon96)
