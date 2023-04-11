@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Vue.js,Spring,Vuex)](https://github.com/kewon96)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Vue.js,Spring,Pinia)](https://github.com/kewon96)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,TypeScript)](https://github.com/kewon96)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=Vue.js,JPA,Spring)](https://github.com/kewon96)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=Vue.js,Spring,Nuxt)](https://github.com/kewon96)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=React,Docker,Git,Flutter)](https://github.com/kewon96)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Etc...&badges=Docker,Git)](https://github.com/kewon96)
